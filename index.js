@@ -37,3 +37,5 @@ var grade = undefined
 var home = undefined
 var phone = undefined
 var jam = undefined
+
+console.log(love)

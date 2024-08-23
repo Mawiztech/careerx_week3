@@ -1,0 +1,93 @@
+nav ul{
+    list-style: none;
+    display: flex;
+
+}
+nav{
+    border: solid;
+    margin-bottom: 50px;
+    display: flex;
+    box-sizing: content-box;
+    
+}
+
+nav ul li {
+
+    margin: 0 40px;
+    
+}
+.log{
+
+margin-left: 800px
+
+
+}
+
+.sign{
+    background-color: brown;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+.logo{
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    
+}
+
+.section{
+    display: flex;
+    border: solid;
+    padding: 5px;
+    margin-bottom: 10px;
+    
+   }
+
+div{
+    
+    border: solid rgb(82, 24, 240);
+    margin: 0 5px;
+    
+}
+
+.Title1{
+ padding: 4px;
+ margin-bottom: 5px;
+ margin-top: 5px;
+ border-color: grey;
+ display: flex;
+ 
+ 
+}
+
+.Title2{
+margin-bottom: 5px;
+border-color: gold;
+padding: 5px;
+display: flex;
+}
+
+
+.container2{
+    background-image: url(./images/netflix-logo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 5px;
+    
+
+
+}
+
+button{
+    width: 500px;
+    background-color: brown;
+    height: 40px;
+}
+.now{
+     border:none;
+}
+
+
+    
+    
